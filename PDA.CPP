@@ -124,10 +124,6 @@ void settings()
 		case 2: clrscr();
 			cout<<"\n\t\tBOSS-Business Organiser Scheduling System";
 			cout<<"\n\t\tVersion 1.0 (Development discontinued)";
-			cout<<"\n\n\n\t\t\tFirmware jointly designed by:";
-			cout<<"\n\t>Karan";
-			cout<<"\t\t\t>Bhavya";
-			cout<<"\t\t\t>Ashutosh";
 			getch();
 			settings();
 			break;
